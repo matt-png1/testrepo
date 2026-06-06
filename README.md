@@ -1,5 +1,5 @@
 # testrepo
 
-## Edotong the file 
+## Edoting the file 
 
 Its a markdown file 
